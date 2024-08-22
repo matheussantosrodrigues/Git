@@ -2,6 +2,7 @@ ALGUMAS COISAS ALÉM:
 touch = criar arquivos
 mkdir = criar pastas
 ls = ver coisas que tem dentro
+rm = deletar
 
 GIT EM SI:
 
